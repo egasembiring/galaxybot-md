@@ -1,4 +1,4 @@
-# Neo Flare WhatsApp Bot - Project Setup
+# galaxy bot WhatsApp yang merupakan Neo Flare WhatsApp Bot - Project Setup
 
 ## Overview
 This is a WhatsApp bot project called "Neo Flare v4.0" developed by Zass Desuta. The bot is built using Node.js and uses the Baileys library for WhatsApp connectivity.
