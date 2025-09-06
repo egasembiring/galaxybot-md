@@ -1,0 +1,27 @@
+{
+  "6283845376470@s.whatsapp.net": {
+    "name": "",
+    "level": 1,
+    "xp": 55,
+    "hp": 1,
+    "maxHp": 100,
+    "mp": 50,
+    "maxMp": 50,
+    "strength": 10,
+    "defense": 10,
+    "agility": 10,
+    "intelligence": 10,
+    "luck": 10,
+    "class": "Newbie",
+    "title": "Beginner",
+    "lastAdventure": 1757152804475,
+    "lastWork": 0,
+    "lastDaily": 1757152713750,
+    "totalBattles": 1,
+    "wins": 0,
+    "losses": 1,
+    "questsCompleted": 0,
+    "achievements": [],
+    "createdAt": 1757152641369
+  }
+}

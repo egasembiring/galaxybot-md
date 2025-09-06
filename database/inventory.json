@@ -1,0 +1,20 @@
+{
+  "6283845376470@s.whatsapp.net": {
+    "weapons": {
+      "Wooden Sword": 1
+    },
+    "armor": {
+      "Cloth Shirt": 1
+    },
+    "potions": {
+      "Health Potion": 3
+    },
+    "materials": {},
+    "tools": {},
+    "equipped": {
+      "weapon": "Wooden Sword",
+      "armor": "Cloth Shirt",
+      "accessory": null
+    }
+  }
+}

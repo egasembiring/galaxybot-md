@@ -1,0 +1,22 @@
+{
+  "sessions": {
+    "6283845376470@s.whatsapp.net": {
+      "type": "guessword",
+      "word": "JAVASCRIPT",
+      "guessesLeft": 3,
+      "startTime": 1757152915167
+    }
+  },
+  "6283845376470@s.whatsapp.net": {
+    "suitWins": 0,
+    "suitLosses": 0,
+    "suitDraws": 0,
+    "guessWordWins": 0,
+    "guessWordLosses": 0,
+    "casinoWins": 1,
+    "casinoLosses": 0,
+    "totalGamesPlayed": 1,
+    "lastGame": 1757153083095,
+    "achievements": []
+  }
+}
